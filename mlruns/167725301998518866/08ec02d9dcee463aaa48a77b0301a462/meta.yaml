@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/08ec02d9dcee463aaa48a77b0301a462/artifacts
+end_time: 1776533314065
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: 08ec02d9dcee463aaa48a77b0301a462
+run_name: beautiful-sponge-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533313938
+status: 3
+tags: []
+user_id: tejes

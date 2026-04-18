@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/b9f52bd5396c477c8892393879938efc/artifacts
+end_time: 1776533314573
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: b9f52bd5396c477c8892393879938efc
+run_name: colorful-panda-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533314480
+status: 3
+tags: []
+user_id: tejes

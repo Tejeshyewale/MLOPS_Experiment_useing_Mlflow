@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/8f868528406346fab3bba3e758396f63/artifacts
+end_time: 1776533314172
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: 8f868528406346fab3bba3e758396f63
+run_name: silent-roo-804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533314073
+status: 3
+tags: []
+user_id: tejes

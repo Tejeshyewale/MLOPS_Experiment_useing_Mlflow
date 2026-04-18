@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/09227b90f4564016ba508664af5ea380/artifacts
+end_time: 1776533331132
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: 09227b90f4564016ba508664af5ea380
+run_name: valuable-yak-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533303836
+status: 3
+tags: []
+user_id: tejes

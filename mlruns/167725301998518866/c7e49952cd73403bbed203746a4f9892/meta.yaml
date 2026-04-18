@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/c7e49952cd73403bbed203746a4f9892/artifacts
+end_time: 1776533314347
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: c7e49952cd73403bbed203746a4f9892
+run_name: sneaky-steed-193
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533314259
+status: 3
+tags: []
+user_id: tejes

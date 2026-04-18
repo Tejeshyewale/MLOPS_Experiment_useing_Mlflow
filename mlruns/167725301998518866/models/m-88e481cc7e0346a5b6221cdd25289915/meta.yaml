@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/models/m-88e481cc7e0346a5b6221cdd25289915/artifacts
+creation_timestamp: 1776533315001
+experiment_id: '167725301998518866'
+last_updated_timestamp: 1776533331090
+model_id: m-88e481cc7e0346a5b6221cdd25289915
+model_type: null
+name: random_forest
+source_run_id: 09227b90f4564016ba508664af5ea380
+status: 2
+status_message: null

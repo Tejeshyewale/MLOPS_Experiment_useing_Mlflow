@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866
+creation_time: 1776533303339
+experiment_id: '167725301998518866'
+last_update_time: 1776533303339
+lifecycle_stage: active
+name: breast-cancer-rf-hp
+trace_location: null
+workspace: default

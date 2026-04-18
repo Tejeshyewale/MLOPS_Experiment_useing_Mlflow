@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/c65781bf6446468d93c61119e78fbaa4/artifacts
+end_time: 1776533314254
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: c65781bf6446468d93c61119e78fbaa4
+run_name: shivering-boar-695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533314179
+status: 3
+tags: []
+user_id: tejes

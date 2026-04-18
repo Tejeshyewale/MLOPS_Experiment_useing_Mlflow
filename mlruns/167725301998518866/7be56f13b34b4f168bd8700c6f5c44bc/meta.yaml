@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/7be56f13b34b4f168bd8700c6f5c44bc/artifacts
+end_time: 1776533313690
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: 7be56f13b34b4f168bd8700c6f5c44bc
+run_name: smiling-bird-462
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533313599
+status: 3
+tags: []
+user_id: tejes

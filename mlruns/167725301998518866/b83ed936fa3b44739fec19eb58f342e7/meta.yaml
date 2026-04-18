@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/b83ed936fa3b44739fec19eb58f342e7/artifacts
+end_time: 1776533313928
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: b83ed936fa3b44739fec19eb58f342e7
+run_name: omniscient-wolf-907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533313822
+status: 3
+tags: []
+user_id: tejes

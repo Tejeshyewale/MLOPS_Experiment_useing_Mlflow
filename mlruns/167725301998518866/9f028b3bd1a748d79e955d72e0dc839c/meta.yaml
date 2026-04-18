@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/mlruns/167725301998518866/9f028b3bd1a748d79e955d72e0dc839c/artifacts
+end_time: 1776533314774
+entry_point_name: ''
+experiment_id: '167725301998518866'
+lifecycle_stage: active
+run_id: 9f028b3bd1a748d79e955d72e0dc839c
+run_name: industrious-perch-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776533314659
+status: 3
+tags: []
+user_id: tejes
