@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/118985712172330600/a7273b08644c482298870961e57b5e2b/artifacts
+deleted_time: 1776490652342
+end_time: 1776489443163
+entry_point_name: ''
+experiment_id: '118985712172330600'
+lifecycle_stage: deleted
+run_id: a7273b08644c482298870961e57b5e2b
+run_name: powerful-lark-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776489443078
+status: 3
+tags: []
+user_id: tejes

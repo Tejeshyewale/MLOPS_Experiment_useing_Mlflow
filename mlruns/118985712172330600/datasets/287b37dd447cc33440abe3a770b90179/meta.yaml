@@ -1,0 +1,8 @@
+digest: 9b22db7d
+name: dataset
+profile: '{"features_shape": [18, 13], "features_size": 234, "features_nbytes": 1872}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 13]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "tejes", "mlflow.source.name": "c:/Users/tejes/Desktop/MLOPS_Experiment_useing_Mlflow/src/autolog.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "0e392b5539bc2b813b089b02caef3ef50244b98e"}}'
+source_type: code

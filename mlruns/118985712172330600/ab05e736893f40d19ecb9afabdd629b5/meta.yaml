@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/118985712172330600/ab05e736893f40d19ecb9afabdd629b5/artifacts
+end_time: 1776494957651
+entry_point_name: ''
+experiment_id: '118985712172330600'
+lifecycle_stage: active
+run_id: ab05e736893f40d19ecb9afabdd629b5
+run_name: smiling-moose-221
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776494939489
+status: 3
+tags: []
+user_id: tejes

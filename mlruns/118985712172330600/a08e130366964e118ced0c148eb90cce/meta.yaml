@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/118985712172330600/a08e130366964e118ced0c148eb90cce/artifacts
+end_time: 1776490147111
+entry_point_name: ''
+experiment_id: '118985712172330600'
+lifecycle_stage: active
+run_id: a08e130366964e118ced0c148eb90cce
+run_name: handsome-steed-107
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776490146986
+status: 3
+tags: []
+user_id: tejes

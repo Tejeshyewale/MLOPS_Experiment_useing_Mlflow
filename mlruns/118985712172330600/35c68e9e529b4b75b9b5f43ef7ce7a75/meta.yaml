@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/118985712172330600/35c68e9e529b4b75b9b5f43ef7ce7a75/artifacts
+end_time: 1776490732447
+entry_point_name: ''
+experiment_id: '118985712172330600'
+lifecycle_stage: active
+run_id: 35c68e9e529b4b75b9b5f43ef7ce7a75
+run_name: legendary-elk-628
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776490713550
+status: 3
+tags: []
+user_id: tejes
